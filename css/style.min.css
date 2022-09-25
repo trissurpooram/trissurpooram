@@ -608,7 +608,7 @@ section[data-section=menu] {
  /*z-index:-1*/
 }
 .probootstrap-section {
- padding:7em 0
+ padding:4em 0
 }
 .probootstrap-section.probootstrap-border-top {
  border-top:1px solid rgba(0,0,0,.1)
@@ -1582,9 +1582,10 @@ section[data-section=menu] {
  margin:0;
  padding:0;
  letter-spacing:.05em;
- font-size:50px;
+ font-size:25px;
  position:relative;
- top:-35px;
+ top:0px;
+ padding-bottom: 10%;
  font-weight:700;
  line-height:40px
 }

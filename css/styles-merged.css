@@ -1442,9 +1442,12 @@ img {
 .img-responsive,
 .thumbnail a>img,
 .thumbnail>img {
+
+	width: 100%;
+	margin: auto;
 	display: block;
-	max-width: 100%;
-	height: auto
+	margin-top: 30%;
+
 }
 
 .img-rounded {
